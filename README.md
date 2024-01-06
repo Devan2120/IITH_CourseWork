@@ -6,3 +6,5 @@ LSSP - Linear Systems and Signal Processing
 DSA - Data Science and Analysis
 
 IT - Information Theory
+
+PRML - Pattern Recognition and Machine Learning
