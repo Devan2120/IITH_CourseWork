@@ -5,8 +5,8 @@ IT - Information Theory
 
 LSSP - Linear Systems and Signal Processing
 
-IVP - Image and Video Processing
-
 PRML - Pattern Recognition and Machine Learning
+
+IVP - Image and Video Processing
 
 DSA - Data Science and Analysis
